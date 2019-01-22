@@ -4,8 +4,8 @@
 > iRate is a social media application that allows registered theater customers to rate and review a movie that they have watched, and for other customers to endorse the reviews.
 >
 #### Team members
-- Xiaojin He (ccis id: xiaojinhe) 
-- Qimin Cao (ccis id: qimin)
+- Karen Cao
+- Alice He 
 #### Technologies
 - Java
 - MySQL
