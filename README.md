@@ -46,7 +46,7 @@ Constraints: a customer cannot endorse his or her own reviews. And endorsing is 
 ***
 
 ## Data Model and Schema
-![image](https://github.ccs.neu.edu/2018FACS5200SV/project-1-qimin/blob/master/iRate_ER_model.png)
+![image](https://github.com/QiminCao/iRate-A-Database-for-Managing-Movie-Ratings/blob/master/iRate_ER_model.png)
 ### Entity Tables: Customer, Movie, Review
 #### 1. Customer: contains the information of registered customers of the theater.
 - ##### The customer table contains five attributes: 
